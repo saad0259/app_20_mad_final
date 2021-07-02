@@ -1,3 +1,7 @@
+![add_data](https://user-images.githubusercontent.com/68280236/124236349-c893b000-db2f-11eb-9669-da85aa1567bd.PNG)
+![contact_us](https://user-images.githubusercontent.com/68280236/124236368-cdf0fa80-db2f-11eb-9211-8a93c2b15c52.PNG)
+![splash_screen](https://user-images.githubusercontent.com/68280236/124236373-cf222780-db2f-11eb-9cc9-4d7756d0a77d.PNG)
+![view_all](https://user-images.githubusercontent.com/68280236/124236378-d0535480-db2f-11eb-857a-f360d623956b.PNG)
 # app_20_mad_final
 
 A new Flutter project.
